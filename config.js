@@ -28,46 +28,46 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['6285813708397', true],
-['6285813708397', 'FallZx', true],
-['6285760451683', 'Zeltoria', true]
+['94703698781', true],
+['94703698781', 'FallZx', true],
+['94703698781', 'Zeltoria', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069306'
-global.nomorown = '6285813708397'
-global.nomorown1 = '6285813708397'
-global.nomorown2 = '6285813708397'
-global.nomorwa = '6285813708397'
+global.nomorbot = '94703698781'
+global.nomorown = '94703698781'
+global.nomorown1 = '94703698781'
+global.nomorown2 = '94703698781'
+global.nomorwa = '94703698781'
 
 
 global.readMore = readMore
-global.author = 'FallZx'
-global.namebot = '​Kilua - MD'
-global.wm = '© Kilua By FallZx'
+global.author = 's a t a n'
+global.namebot = '​s a t a n - MD'
+global.wm = '© s a t a n By o s h a d a'
 global.media = 'https://telegra.ph/file/02a8d3c4b00146bbfeb5d.jpg'
 global.watermark = wm
-global.wm2 = 'FallZx'
+global.wm2 = 's a t a n'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `Kilua - MD`
-global.stickpack = 'Kilua By FallZx'
-global.stickauth = `© FallZx`
+global.titlebot = `s a t a n - MD`
+global.stickpack = 'Kilua By o s h a d a'
+global.stickauth = `© s a t a n`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= 'FallZx'
-global.nameown2 = 'Zeltoria'
+global.nameown1= 's a t a n'
+global.nameown2 = 's a t a n'
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
-global.sig = 'https://www.instagram.com/fallxd_781' //instagram
-global.sgh = 'https://github.com/FallEzz' //github
-global.sgc = 'https://chat.whatsapp.com/KCYr0YwODJTEEFUlPxuNXQ' //group whatsapp
+global.sig = 'https://www.instagram.com/s a t a n' //instagram
+global.sgh = 'https://github.com/s a t a n' //github
+global.sgc = 'https://chat.whatsapp.com/s a t a n' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/@FallXD425' //youtube
+global.snh = 'https://www.youtube.com/@s a t a n' //youtube
 //Donasi/Payment
-global.psaweria = 'https://saweria.co/Zeltoria'
-global.ptrakterr = 'https://trakteer.id/zeltoria'
+global.psaweria = 'https://saweria.co/s a t a n'
+global.ptrakterr = 'https://trakteer.id/s a t a n'
 global.pdana = '0858-1370-8397' // dana
 global.povo = 'ga punya'
 global.pgopay = '0858-1370-8397' // gopay
