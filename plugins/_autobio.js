@@ -7,7 +7,7 @@ export async function all(m) {
 		let uptime = clockString(_uptime);
 		
 		let plat = os.platform()
-               let bio = `Aktif Selama ${uptime} Mode: ${global.opts['self'] ? 'Private' : setting.self ? 'Private' : global.opts['gconly'] ? 'Hanya Grup' : 'Publik'} ${emot4} Platform: ${plat} | ${wm} `
+               let bio = `I'm Whatsapp User Bot Active During ${uptime} Mode: ${global.opts['self'] ? 'Private' : setting.self ? 'Private' : global.opts['gconly'] ? 'Hanya Grup' : 'Publik'} ${emot4} Platform: ${plat} | @OSHADA `
 
 		await this.setBio(bio).catch(_ => _)
 		setting.status = new Date() * 1
